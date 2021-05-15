@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sachin Maurya a third year undergrad from India . I'm passionate about open-source and and my career interest is cybersecurity.
+I am Sachin Maurya a third year undergrad from India . I'm passionate about open-source and my career interest is cybersecurity.
 Looking to create cool software and tools to help people and **building a community**.
 
 <!--
