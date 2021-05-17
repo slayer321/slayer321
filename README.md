@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Golang project.
-- 🌱 I’m currently learning Golang and DevOps.
+- 🌱 I’m currently learning DevOps and security.
 - 👯 I’m looking to collaborate on some Cool golang project.
 - 📫 How to reach me: sachin.maurya7666@gmail.com
 - ⚡ Fun fact: Paraskavedekatriaphobia is the fear of Friday the 13th.👻
