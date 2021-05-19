@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sachin.maurya7666@gmail.com
 - ⚡ Fun fact: Paraskavedekatriaphobia is the fear of Friday the 13th.👻
 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/0x_mantis)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sach1nmaurya/)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slayer321&show_icons=true" alt="jomefavourite" /></p>
