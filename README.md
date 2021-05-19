@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on some Cool golang project.
 - 📫 How to reach me: sachin.maurya7666@gmail.com
 - ⚡ Fun fact: Paraskavedekatriaphobia is the fear of Friday the 13th.👻
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slayer321&show_icons=true" alt="jomefavourite" /></p>
