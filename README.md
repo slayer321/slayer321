@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sach1nmaurya/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slayer321&show_icons=true" alt="jomefavourite" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=slayer321&theme=react&show_icons=true&locale=en&layout=compact" alt="radon333" /></p>
