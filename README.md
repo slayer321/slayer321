@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/0x_mantis)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sach1nmaurya/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slayer321&show_icons=true" alt="jomefavourite" /></p>
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=slayer321&theme=react&show_icons=true&locale=en&layout=compact" alt="radon333" /></p>
+<a href="https://github.com/slayer321?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=slayer321&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Jaynil's github stats" /></a>
+<a href="https://github.com/slayer321?tab=repositories"><img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slayer321&layout=compact&langs_count=6&theme=algolia" alt="Top Languages"/></a>
