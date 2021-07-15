@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sachin Maurya a third year undergrad from India . I'm passionate about open-source and my career interest is cybersecurity.
+I am Sachin Maurya a Final year undergrad from India . I'm passionate about open-source and my career interest is cybersecurity.
 Looking to create cool software and tools to help people and **building a community**.
 
 <!--
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DevOps and security.
 - 👯 I’m looking to collaborate on some Cool golang project.
 - 📫 How to reach me: sachin.maurya7666@gmail.com
-- ⚡ Fun fact: Paraskavedekatriaphobia is the fear of Friday the 13th.👻
+<!--⚡ Fun fact: Paraskavedekatriaphobia is the fear of Friday the 13th.👻
+-->
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/0x_mantis)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sach1nmaurya/)
