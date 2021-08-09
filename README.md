@@ -9,9 +9,9 @@ Looking to create cool software and tools to help people and **building a commun
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Golang project.
+- 🔭 I’m currently working on Go project.
 - 🌱 I’m currently learning DevOps and security.
-- 👯 I’m looking to collaborate on some Cool golang project.
+- 👯 I’m looking to collaborate on some Cool Go project.
 - 📫 How to reach me: sachin.maurya7666@gmail.com
 <!--⚡ Fun fact: Paraskavedekatriaphobia is the fear of Friday the 13th.👻
 -->
