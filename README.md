@@ -1,4 +1,6 @@
-### Hi there 👋
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+
+<h1 align="center">Hello , I'm Sachin! <span class="wave">👋</span></h1>
 
 I am Sachin Maurya a Final year undergrad from India . I'm passionate about open-source and my career interest is cybersecurity.
 Looking to create cool software and tools to help people and **building a community**.
