@@ -2,8 +2,7 @@
 
 <h1 align="center">Hello , I'm Sachin! <span class="wave">👋</span></h1>
 
-I am Sachin Maurya a Final year undergrad from India . I'm passionate about open-source and my career interest is cybersecurity.
-Looking to create cool software and tools to help people and **building a community**.
+I'm Sachin Maurya a Final year undergrad from India . I'm passionate about Security, Open-source, CNCF Projects and Golang.Looking to create cool software and tools to help people and **building a community**.
 
 <!--
 **slayer321/slayer321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
