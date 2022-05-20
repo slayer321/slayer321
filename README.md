@@ -11,11 +11,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Go project.
-- 🌱 I’m currently learning DevOps and security.
+- 🌱 I’m currently learning Container security and eBPF.
 - 👯 I’m looking to collaborate on some Cool Go project.
 - 📫 How to reach me: sachin.maurya7666@gmail.com
-<!--⚡ Fun fact: Paraskavedekatriaphobia is the fear of Friday the 13th.👻
--->
+- ⚡ Fun fact: When not coding, mostly love watching horrer movies 👻 and doing calisthenics 💪. 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/0x_mantis)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sach1nmaurya/)
