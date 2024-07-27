@@ -10,8 +10,8 @@ I'm Sachin Maurya a Engineering graduate from India.I'm passionate about Securit
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Go project.
-- 🌱 I’m currently learning Container security and eBPF.
+- 🔭 I’m currently working on Go projects.
+- 🌱 I’m currently learning about databases and working on building distributed kv database.
 - 👯 I’m looking to collaborate on some Cool Go project.
 - 📫 How to reach me: sachin.maurya7666@gmail.com
 - ⚡ Fun fact: When not coding, mostly love watching horrer movies 👻 and doing calisthenics 💪. 
